@@ -1,0 +1,2 @@
+# Notebooks
+Mi primer obsidian 
